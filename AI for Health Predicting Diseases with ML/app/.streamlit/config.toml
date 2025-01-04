@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#2E86AB"  # A calm blue color
+backgroundColor = "#FAFAFA"  # Light gray for the background
+secondaryBackgroundColor = "#E9F2F9"  # Subtle blue-gray for sidebars
+textColor = "#1C2833"  # Dark text color for readability
+font = "monospace"  # Monospaced font for a sleek look
+
+[browser]
+gatherUsageStats = false             # Disable usage stats collection
+serverPort = 8501                # Default server port

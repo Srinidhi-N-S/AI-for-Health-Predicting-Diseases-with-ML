@@ -1,0 +1,101 @@
+Age,Weight,BMI,Systolic_blood_pressure,Target
+62,94.8,27.8,128,Risk of Diabetes
+53,90.4,30.8,146,Hypertension and Obesity
+78,83.4,28.8,138,Risk of Diabetes
+56,109.8,42.4,132,Obesity
+42,55.2,20.3,100,Healthy
+72,64.4,28.6,116,Risk of Diabetes
+22,76.6,28.0,110,Healthy
+32,64.5,28.2,120,Healthy
+56,108.3,33.6,178,Hypertension and Obesity
+46,86.2,27.6,144,Hypertension
+45,76.2,24.1,116,Healthy
+30,71.2,26.6,104,Healthy
+67,117.8,43.7,124,Obesity
+67,97.4,28.8,132,Risk of Diabetes
+57,80.5,35.4,134,Obesity
+19,100.8,32.8,102,Obesity
+24,61.8,25.3,110,Healthy
+27,107.9,38.0,138,Obesity
+54,59.0,26.3,136,Risk of Diabetes
+49,72.8,25.0,110,Healthy
+80,67.7,30.2,148,Hypertension and Obesity
+69,77.7,30.3,140,Obesity
+58,56.6,22.8,116,Healthy
+56,69.0,25.0,136,Healthy
+27,87.8,34.0,108,Obesity
+22,73.7,25.3,122,Healthy
+60,75.6,35.9,142,Hypertension and Obesity
+51,102.1,30.8,132,Obesity
+68,77.4,33.5,122,Obesity
+69,84.0,31.0,146,Hypertension and Obesity
+66,102.9,34.0,160,Hypertension and Obesity
+56,85.6,24.4,114,Healthy
+80,78.6,28.0,120,Risk of Diabetes
+37,66.6,25.5,114,Healthy
+80,58.5,23.7,150,Hypertension
+29,68.4,23.7,114,Healthy
+27,79.1,28.6,120,Healthy
+20,72.9,26.2,96,Healthy
+68,63.7,29.1,124,Risk of Diabetes
+24,89.2,26.9,126,Healthy
+27,59.3,18.6,120,Healthy
+42,86.1,25.5,128,Healthy
+80,72.3,28.5,158,Hypertension
+70,81.7,27.0,144,Hypertension
+80,79.8,29.1,168,Hypertension
+20,60.4,22.2,116,Healthy
+29,66.8,29.7,110,Healthy
+23,72.4,22.3,118,Healthy
+61,93.0,29.5,134,Risk of Diabetes
+39,71.3,27.2,104,Healthy
+50,65.8,22.6,118,Healthy
+50,105.9,42.6,104,Obesity
+69,87.7,28.2,146,Hypertension
+18,68.6,28.0,116,Healthy
+45,77.5,35.2,112,Obesity
+80,78.3,24.2,196,Hypertension
+27,68.9,23.1,108,Healthy
+44,133.3,45.3,116,Obesity
+18,71.2,20.8,104,Healthy
+71,80.3,27.6,132,Risk of Diabetes
+37,85.1,35.3,126,Obesity
+49,76.1,27.4,122,Healthy
+46,110.2,41.6,130,Obesity
+30,89.1,27.0,112,Healthy
+31,70.4,27.8,116,Healthy
+41,146.1,40.7,124,Obesity
+19,60.3,24.4,126,Healthy
+35,95.8,31.1,114,Obesity
+21,39.7,16.3,94,Healthy
+40,88.0,30.7,104,Obesity
+67,61.3,23.9,138,Healthy
+48,82.4,28.6,140,Healthy
+30,53.7,27.4,92,Healthy
+63,67.2,23.3,134,Healthy
+42,91.6,34.4,102,Obesity
+71,61.5,26.4,164,Hypertension
+79,49.7,24.0,106,Healthy
+32,63.2,23.9,110,Healthy
+80,46.7,20.1,150,Hypertension
+61,62.2,22.3,114,Healthy
+38,48.7,21.8,112,Healthy
+74,84.1,27.2,142,Hypertension
+51,51.4,23.1,128,Healthy
+26,77.7,24.3,124,Healthy
+18,50.5,20.4,98,Healthy
+54,109.5,38.8,118,Obesity
+60,58.9,19.7,166,Hypertension
+80,56.2,23.5,134,Healthy
+29,79.1,30.7,114,Obesity
+55,86.0,25.0,104,Healthy
+27,75.3,24.0,124,Healthy
+49,90.7,25.5,112,Healthy
+22,71.5,24.1,130,Healthy
+51,70.5,24.7,110,Healthy
+37,73.2,22.9,102,Healthy
+43,91.1,30.7,128,Obesity
+43,72.5,24.6,104,Healthy
+23,99.3,33.8,114,Obesity
+71,90.0,29.9,188,Hypertension
+19,64.7,21.6,114,Healthy
